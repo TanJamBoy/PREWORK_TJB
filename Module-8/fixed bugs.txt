@@ -1,0 +1,17 @@
+Boo The Dog Fan Page! was not in <h1> tags
+
+The "about boo" section did not have the text in <p> tags
+
+the href for boo's wiki page did not have a url in it
+
+was no <> around the image link of boo
+
+no quotation marks in boo's fact array
+
+the things in the list did not have the <li> tags
+
+colored buttons id and text on button did not match
+
+the javascript src link was wrong
+
+there was no quotation marks around click in the grow shrink functions

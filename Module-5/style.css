@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+.p1 {
+    color: red;
+}
+.p2 {
+    color: blue;
+}
+.p3 {
+    color: green;
+}
+.p4 {
+    font-size: 50px;
+}
+.p5 {
+    font-size: 8px;
+}
+.p6 {
+    text-align: center;
+}
+.p7 {
+    font-weight: bold;
+}
+.p8 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p9 {
+    color: orange;
+    font-size: 50px;
+    font-weight: bold;
+}
+.styledFont {
+    color: navy;
+}
+#styledImage{
+    border-style: dashed;
+    border-width: 10px;
+    border-color: mediumvioletred;
+}
